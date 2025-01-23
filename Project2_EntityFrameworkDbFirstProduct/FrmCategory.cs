@@ -52,5 +52,10 @@ namespace Project2_EntityFrameworkDbFirstProduct
 			db.SaveChanges();
 			CategoryList();
 		}
+
+		private void FrmCategory_Load(object sender, EventArgs e)
+		{
+
+		}
 	}
 }

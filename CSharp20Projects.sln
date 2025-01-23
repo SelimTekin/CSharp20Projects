@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project3_EntityFrameworkSta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project4_EntityFrameworkCodeFirstMovie", "Project4_EntityFrameworkCodeFirstMovie\Project4_EntityFrameworkCodeFirstMovie.csproj", "{EFB4F539-A481-4242-A85F-949111EE18B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project5_DapperNorthwind", "Porject5_DapperNorthwind\Project5_DapperNorthwind.csproj", "{487B8B6C-8B55-4FE0-AE98-D8781533FD7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EFB4F539-A481-4242-A85F-949111EE18B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFB4F539-A481-4242-A85F-949111EE18B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFB4F539-A481-4242-A85F-949111EE18B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{487B8B6C-8B55-4FE0-AE98-D8781533FD7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487B8B6C-8B55-4FE0-AE98-D8781533FD7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487B8B6C-8B55-4FE0-AE98-D8781533FD7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487B8B6C-8B55-4FE0-AE98-D8781533FD7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

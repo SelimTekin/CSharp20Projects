@@ -153,6 +153,7 @@
 			this.Name = "FrmCategory";
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "Kategori İşlemleri";
+			this.Load += new System.EventHandler(this.FrmCategory_Load);
 			((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
 			this.ResumeLayout(false);
 			this.PerformLayout();
