@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project8_RapidApiCurrency",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project9_MongoDbOrder", "Project9_MongoDbOrder\Project9_MongoDbOrder.csproj", "{CB8C2BCC-D232-4890-85DC-199385F4873A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project11_TriggerOrderStock", "Project11_TriggerOrderStock\Project11_TriggerOrderStock.csproj", "{CB73F996-B8FD-47C2-A699-3284482046C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{CB8C2BCC-D232-4890-85DC-199385F4873A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB8C2BCC-D232-4890-85DC-199385F4873A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB8C2BCC-D232-4890-85DC-199385F4873A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB73F996-B8FD-47C2-A699-3284482046C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB73F996-B8FD-47C2-A699-3284482046C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB73F996-B8FD-47C2-A699-3284482046C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB73F996-B8FD-47C2-A699-3284482046C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
