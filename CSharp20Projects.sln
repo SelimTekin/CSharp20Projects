@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project15_GasPriceSimulatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project16_MailRegister", "Project16_MailRegister\Project16_MailRegister.csproj", "{8DC0AA35-D4C0-4E2A-878F-DAA939923EBD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project17_KaggleDataset", "Project17_KaggleDataset\Project17_KaggleDataset.csproj", "{609BAD23-86B7-4E98-B9AD-5084454D1A2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project18_DashboardSuperStoreDataset", "Project18_DashboardSuperStoreDataset\Project18_DashboardSuperStoreDataset.csproj", "{E2F16B3C-D467-4B0A-97F1-AEC7567B9328}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{8DC0AA35-D4C0-4E2A-878F-DAA939923EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DC0AA35-D4C0-4E2A-878F-DAA939923EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DC0AA35-D4C0-4E2A-878F-DAA939923EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{609BAD23-86B7-4E98-B9AD-5084454D1A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609BAD23-86B7-4E98-B9AD-5084454D1A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609BAD23-86B7-4E98-B9AD-5084454D1A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609BAD23-86B7-4E98-B9AD-5084454D1A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2F16B3C-D467-4B0A-97F1-AEC7567B9328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2F16B3C-D467-4B0A-97F1-AEC7567B9328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2F16B3C-D467-4B0A-97F1-AEC7567B9328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2F16B3C-D467-4B0A-97F1-AEC7567B9328}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
